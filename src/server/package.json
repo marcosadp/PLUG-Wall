@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A simple JavaScript widget based message board",
   "dependencies": {
-    "moment": "2.1.0"
+    "moment": "2.1.0",
+    "nedb": "~0.8.6"
   }
 }

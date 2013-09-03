@@ -5,5 +5,8 @@
       "name": "/board",
       "storage": "memory"
     }
-  ]
+  ],
+  "nedb": {
+    "dbfile": "path/to/file"
+  }
 }
